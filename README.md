@@ -14,5 +14,5 @@ From there if the user desires, they will be able to use the filters on the left
 
 ![plot](static/images/Untitled.png)
 
-##Summary
-Although this website allows the users to filter and gather information quickly, it does have some drawbacks. For example, the website doesn't have information past 2010 which may be a negative for some clients. In addition to this, I think capitalizing state, county and city names will make the website look more reputable. I would also add videos and images attached alongside each sighting so the users experience will be enhanced.
+## Summary
+Although this website allows the users to filter and gather information quickly, it does have some drawbacks. For example, the website doesn't have information past 2010 which may be a negative for some clients who like to stay up-to-date on UFO sightings. In addition to this, I think capitalizing state, county and city names will make the website look more reputable. I would also add videos and images attached alongside each sighting so the users experience will be enhanced.
