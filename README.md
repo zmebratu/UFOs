@@ -3,7 +3,9 @@
 ![plot](static/images/nasa.jpg)
 
 ## Purpose
-The objective for this analysis was to build a webpage and to provide users with filters to search for multiple criteria’s at once. The filters will allow users to sort by city, date, country, state, and shape. 
+The primary aim of this project was to use JavaScript, the most widely used programming language globally, along with HTML and some bootstrapping skills to develop dynamic content. With the help of Dana and the team's combined efforts, a table was created to organize UFO data stored in a JavaScript array, which can filter data based on specific criteria, such as date, city, state, country, and shape.
+
+The table was incorporated into an HTML webpage, allowing visitors to filter and display information based on their interests and preferences. To make the webpage more visually appealing, CSS was utilized to modify its appearance by changing default colors.
 
 ## Results
 Upon entrance to our website, the user will observe the following: 
