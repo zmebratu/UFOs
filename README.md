@@ -19,5 +19,5 @@ From there if the user desires, they will be able to use the filters on the left
 ## Summary
 While this website offers the benefit of quickly filtering and accessing information, there are some limitations that must be acknowledged. One such issue is that the website only contains data up to 2010, which could be considered a disadvantage for users who want to stay current with UFO sightings. To address this, I would suggest including a submission form for users to submit their own sightings, which can be reviewed and added to the site.
 
-Additionally, I recommend capitalizing the names of states, countries, shapes, and cities to lend more credibility to the website. Finally, enhancing the user experience by adding videos and images for each sighting would be a valuable addition to the website.
+Additionally, I recommend capitalizing the names of states, countries, shapes, and cities to lend more credibility to the website. Finally, enhancing the user experience by adding videos and images for each sighting would be a valuable addition to the website. 
 
